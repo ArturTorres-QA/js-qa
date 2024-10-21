@@ -1,1 +1,3 @@
-# js-qa
+# Java Script - QA
+
+Em andamento
